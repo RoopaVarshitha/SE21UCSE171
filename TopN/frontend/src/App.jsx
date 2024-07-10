@@ -5,6 +5,7 @@ import ProductDetail from './components/ProductDetail';
 
 function App() {
   return (
+    <Header/>
     <Router>
       <div className="App">
         <Routes>
