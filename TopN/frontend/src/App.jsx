@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ProductsList from './components/ProductsList';
 import ProductDetail from './components/ProductDetail';
+import Header from 'Header.jsx';
 
 function App() {
   return (
